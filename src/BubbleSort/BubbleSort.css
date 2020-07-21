@@ -1,0 +1,24 @@
+.bs {
+  object-fit: contain;
+  left: 100px;
+  /* top: 100px; */
+}
+
+.bs__container {
+  display: flex;
+  padding: 2px;
+  transform: rotate(180deg);
+  flex-direction: row-reverse;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+.bs__pair {
+  width: 2.5rem;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+.generate {
+  padding: 100px;
+}
