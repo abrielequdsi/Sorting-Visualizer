@@ -1,3 +1,10 @@
+To Visualize what I've learned about sorting algorithms, I've decided to build a visualizer using React.js.
+Implementing bubble sort, insertion sort, merge sort, quick sort, and selection sort, visualizer. 
+Access it using this link : https://abrielequdsi.github.io/Sorting-Visualizer/
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
